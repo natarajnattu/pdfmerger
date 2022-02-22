@@ -1,6 +1,5 @@
-# Import libraries
-import os
-import time
+# Import libraries r
+
 import pandas as pd
 import pdfkit
 
